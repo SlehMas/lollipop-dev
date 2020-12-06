@@ -55,40 +55,7 @@ const LaTeam = () => {
             <li>
               <a href="https://www.linkedin.com/in/nesrine-mourou-847ba2144/" target="_blank">
                 <img src="../../assets/linkedin-500px.svg" width="30" className="img-fluid"/>
-              </a>            
-            </li>
-          </ul>
-        </div>
-      </Col>
-    </Row>
-
-    <Row className="mt-5">
-      <Col md={6} xs={12} className="member">
-        <img className="img-fluid member_image" src="../../assets/sleh.jpg"/>
-        <div className="info mt-2">
-          <h2>Slaheddine Mastouri</h2>
-          <p>Web Developer</p>
-          <ul className="links">
-            <li>
-              <a href="https://www.linkedin.com/in/slehmas/" target="_blank">
-                <img src="../../assets/linkedin-500px.svg" width="30" className="img-fluid"/>
               </a>
-            </li>
-          </ul>
-        </div>
-      </Col>
-
-      <Col md={6} xs={12} className="member">
-        <img className="img-fluid member_image" src="../../assets/rania.png"/>
-        <div className="info mt-2">
-          <h2>Rania Makhlouf</h2>
-          <p>UX &amp; UI Designer</p>
-          <ul className="links">
-            <li>
-              <img src="../../assets/twitter-500px.svg" width="30" className="img-fluid"/>
-            </li>
-            <li>
-              <img src="../../assets/linkedin-500px.svg" width="30" className="img-fluid"/>
             </li>
           </ul>
         </div>
